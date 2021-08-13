@@ -3,7 +3,7 @@ Repository for paper "Unsupervised Disentanglement without Autoencoding: Pitfall
 
 We provide the colab used to generate the MNIST-STL/10 dataset used for all our disentanglement experiments and the resulting data files for use by others.
 
-If you use the paper or the MNIST-STL/10 data, please cite our paper:
+If you reference the paper or make use of the MNIST-STL/10 data, please cite our paper:
 ``` markdown
 @article{}
 ```
